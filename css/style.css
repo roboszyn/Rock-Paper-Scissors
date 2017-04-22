@@ -1,0 +1,45 @@
+body {
+  background-image: url(../images/img.png);
+  background-size: cover; }
+
+.container {
+  margin-top: 60px;
+  text-align: center; }
+
+#js-playerPickElement,
+#js-resultsTableElement {
+  display: none; }
+
+.container h1 {
+  font-size: 50px;
+  color: #000040;
+  font-family: "Diplomata", cursive; }
+
+.title {
+  font-size: 50px;
+  font-family: "Covered By Your Grace", cursive;
+  color: #FFFFFF;
+  margin-top: 20px; }
+
+#js-playerName,
+#js-computerName,
+#js-playerPick,
+#js-computerPick,
+#js-playerResult,
+#js-computerResult {
+  color: #323299;
+  font-size: 20px;
+  font-family: "David Libre", serif; }
+
+#js-playerPoints,
+#js-computerPoints {
+  font-size: 20px;
+  font-family: "David Libre", serif;
+  margin-bottom: 5px; }
+
+.col-xs-2 {
+  color: #323299;
+  font-family: "David Libre", serif;
+  font-size: 15px; }
+
+/*# sourceMappingURL=style.css.map */
